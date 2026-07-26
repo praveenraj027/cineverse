@@ -34,7 +34,7 @@ export default function Navbar() {
             whileHover={{ scale: 1.05 }}
             transition={{ type: 'spring', stiffness: 300 }}
           >
-            CineVerse
+            CinemaApp
           </motion.div>
 
           {/* Desktop Navigation */}
